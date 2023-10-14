@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<defaultsMap>
+    <entry>
+        <key>appFlyersId</key>
+        <value>JYwLCxwFEV5MK4cerb5tFA</value>
+    </entry>
+
+    <entry>
+        <key>facebookAppId</key>
+        <value>12345</value>
+    </entry>
+
+    <entry>
+        <key>apiURL</key>
+        <value>https://brlapps.site/</value>
+    </entry>
+
+    <entry>
+        <key>policyURL</key>
+        <value>https://brlapps.site/policy</value>
+    </entry>
+
+    <entry>
+        <key>gameURL</key>
+        <value>https://brlapps.site/102GS</value>
+    </entry>
+
+    <entry>
+        <key>jsInterface</key>
+        <value>jsBridge</value>
+    </entry>
+
+</defaultsMap>
+
+
