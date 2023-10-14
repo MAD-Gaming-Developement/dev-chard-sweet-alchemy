@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "73281473901",
+    "project_id": "mad-gaming-project",
+    "storage_bucket": "mad-gaming-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73281473901:android:08df6a300a994b974e5e64",
+        "android_client_info": {
+          "package_name": "br.brlgames.sweetalchemy100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ490AkWwAch-3-4zF3hLVYjR0u1PRIoY"
+        }
+      ],
+
+
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73281473901:android:243c50d52b549c164e5e64",
+        "android_client_info": {
+          "package_name": "io.seventigers.gameslots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ490AkWwAch-3-4zF3hLVYjR0u1PRIoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
